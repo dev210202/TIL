@@ -19,7 +19,10 @@ Today I Learned
 
 #### [RecycleView](https://github.com/jkey20/TIL/blob/master/Android%20Developer%20Fundamentals%20Course/2020_02_07.md#recycleview)
 
-
+#### [ViewPager](https://github.com/jkey20/TIL/blob/master/TogetherEatProject/2020_02_07.md#glide)
 
 ## TDD
 #### [Unit Test](https://github.com/jkey20/TIL/blob/master/Android%20Developer%20Fundamentals%20Course/2020_02_06.md#android-fundamentals-032-unit-tests)
+
+## 라이브러리
+#### [Glide](https://github.com/jkey20/TIL/blob/master/TogetherEatProject/2020_02_07.md#glide)
