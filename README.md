@@ -29,6 +29,11 @@ Today I Learned
 
 #### [선택한 View를 특정 View 아래에 있게하기](https://github.com/jkey20/TIL/blob/master/TogetherEatProject/2020_02_08.md#%EC%84%A0%ED%83%9D%ED%95%9C-view%EB%A5%BC-%ED%8A%B9%EC%A0%95-view-%EC%95%84%EB%9E%98%EC%97%90-%EC%9E%88%EA%B2%8C%ED%95%98%EA%B8%B0)
 
+## API
+#### [구글 소셜 로그인](https://github.com/jkey20/TIL/blob/master/TogetherEatProject/2020_02_10.md#%EA%B5%AC%EA%B8%80-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84)
+
+#### [페이스북 소셜 로그인](https://github.com/jkey20/TIL/blob/master/TogetherEatProject/2020_02_10.md#%EA%B5%AC%EA%B8%80-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84)
+
 ## TDD
 #### [Unit Test](https://github.com/jkey20/TIL/blob/master/Android%20Developer%20Fundamentals%20Course/2020_02_06.md#android-fundamentals-032-unit-tests)
 
