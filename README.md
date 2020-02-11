@@ -34,6 +34,8 @@ Today I Learned
 
 #### [페이스북 소셜 로그인](https://github.com/jkey20/TIL/blob/master/TogetherEatProject/2020_02_10.md#%EA%B5%AC%EA%B8%80-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84)
 
+#### [카카오톡 소셜 로그인](https://github.com/jkey20/TIL/blob/master/TogetherEatProject/2020_02_11.md#%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84)
+
 ## TDD
 #### [Unit Test](https://github.com/jkey20/TIL/blob/master/Android%20Developer%20Fundamentals%20Course/2020_02_06.md#android-fundamentals-032-unit-tests)
 
