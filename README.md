@@ -16,7 +16,6 @@ Today I Learned
 
 #### [Spinner](https://github.com/jkey20/TIL/blob/master/Android%20Developer%20Fundamentals%20Course/2020_02_07.md#spinner-%EC%82%AC%EC%9A%A9)
 
-
 #### [날짜(달력) picker](https://github.com/jkey20/TIL/blob/master/Android%20Developer%20Fundamentals%20Course/2020_02_07.md#android-fundamentals-043-menus-and-pickers)
 
 #### [RecycleView](https://github.com/jkey20/TIL/blob/master/Android%20Developer%20Fundamentals%20Course/2020_02_07.md#recycleview)
@@ -28,6 +27,16 @@ Today I Learned
 #### [CardView](https://github.com/jkey20/TIL/blob/master/Android%20Developer%20Fundamentals%20Course/2020_02_08.md#cardview)
 
 #### [선택한 View를 특정 View 아래에 있게하기](https://github.com/jkey20/TIL/blob/master/TogetherEatProject/2020_02_08.md#%EC%84%A0%ED%83%9D%ED%95%9C-view%EB%A5%BC-%ED%8A%B9%EC%A0%95-view-%EC%95%84%EB%9E%98%EC%97%90-%EC%9E%88%EA%B2%8C%ED%95%98%EA%B8%B0)
+
+#### [Layout 관련 정리](https://github.com/jkey20/TIL/blob/master/TogetherEatProject/2020_02_14.md#layout-%EA%B4%80%EB%A0%A8-%EC%A0%95%EB%A6%AC)
+
+#### [프로그레스 다이얼로그](https://github.com/jkey20/TIL/blob/master/TogetherEatProject/2020_02_14.md#layout-%EA%B4%80%EB%A0%A8-%EC%A0%95%EB%A6%AC)
+
+
+## 기능구현
+#### [카메라로 찍고 이미지뷰에 세팅](https://github.com/jkey20/TIL/blob/master/TogetherEatProject/2020_02_14.md#%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A1%9C-%EC%B0%8D%EA%B3%A0-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B7%B0%EC%97%90-%EC%84%B8%ED%8C%85)
+
+#### [GPS로 현재위치(위도,경도) 가져오기](https://github.com/jkey20/TIL/blob/master/TogetherEatProject/2020_02_14.md#%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A1%9C-%EC%B0%8D%EA%B3%A0-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B7%B0%EC%97%90-%EC%84%B8%ED%8C%85)
 
 ## API
 #### [구글 소셜 로그인](https://github.com/jkey20/TIL/blob/master/TogetherEatProject/2020_02_10.md#%EA%B5%AC%EA%B8%80-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84)
