@@ -32,6 +32,10 @@ Today I Learned
 
 #### [프로그레스 다이얼로그](https://github.com/jkey20/TIL/blob/master/MeeatNowProject/2020_02_14.md#%ED%94%84%EB%A1%9C%EA%B7%B8%EB%A0%88%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%BC%EB%A1%9C%EA%B7%B8)
 
+#### [커스텀 리스트뷰](https://github.com/jkey20/TIL/blob/master/MeeatNowProject/2020_02_18.md#%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%B7%B0-%EA%B5%AC%ED%98%84)
+
+#### [페이지 슬라이딩 애니메이션](https://github.com/jkey20/TIL/blob/master/MeeatNowProject/2020_02_18.md#%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)
+
 
 ## 기능구현
 #### [카메라로 찍고 이미지뷰에 세팅](https://github.com/jkey20/TIL/blob/master/MeeatNowProject/2020_02_14.md#%ED%94%84%EB%A1%9C%EA%B7%B8%EB%A0%88%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%BC%EB%A1%9C%EA%B7%B8)
