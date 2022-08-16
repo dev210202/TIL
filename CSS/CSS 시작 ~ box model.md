@@ -225,15 +225,15 @@ thin, medium, thick으로 설정할 수 있음
 
 border-width 속성은 4가지 값을 가짐(top, right, bottom, left 시계방향)
 
- ### CSS border 색상
- border-color 속성으로 테두리 색상을 정함
- - name
- - hex
- - rgb
- - hsl
- - transparent
+### CSS border 색상
+border-color 속성으로 테두리 색상을 정함
+- name
+- hex
+- rgb
+- hsl
+- transparent
 
- 4가지 값(top, right, bottom, left)에 각각 색 지정가능
+4가지 값(top, right, bottom, left)에 각각 색 지정가능
 
 ### CSS border 각각의 면
 border-top-style - 위
@@ -314,6 +314,11 @@ div {
 ```   
 패딩과 관계없이 너비를 유지하려면 box-sizing 속성을 사용
 
+- content-box: 콘텐츠 영역을 기준으로 크기 설정
+- border-box: 테두리를 기준으로 크기 설정
+- initial: 기준점
+- inherit: 상속
+
 ### CSS 높이, 너비, 최대 너비
 height: 높이
 width: 너비
@@ -329,14 +334,14 @@ width: 너비
 
 #### 최대 너비 설정
 max-width 속성으로 element의 최대 너비를 설정할 수 있음
-100%로 설정하면 요소의 기본 크기 이상으로 조절되지 않음
+최대 너비 설정 후 100%로 설정하면 요소의 기본 크기 이상으로 조절되지 않음
 
 ### CSS box model
 margin, border, padding, content로 구성
 
 #### 요소의 너비와 높이
-전체 요소 너비 = 너비 + 왼쪽 패딩 + 오른쪽 패딩 + 왼쪽 테두리 + 오른쪽 테두리 + 왼쪽 여백 + 오른쪽 여백
+전체 요소 너비 = 컨텐츠 너비 + 왼쪽 패딩 + 오른쪽 패딩 + 왼쪽 테두리 + 오른쪽 테두리 + 왼쪽 여백 + 오른쪽 여백
 
-전체 요소 높이 = 높이 + 상단 패딩 + 하단 패딩 + 상단 테두리 + 하단 테두리 + 상단 여백 + 하단 여백
+전체 요소 높이 = 컨텐츠 높이 + 상단 패딩 + 하단 패딩 + 상단 테두리 + 하단 테두리 + 상단 여백 + 하단 여백
 
 next -> https://www.w3schools.com/css/css_outline.asp
